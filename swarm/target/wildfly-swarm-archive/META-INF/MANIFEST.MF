@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Application-Artifact: swarm.jar
+Main-Class: org.wildfly.swarm.bootstrap.Main
+

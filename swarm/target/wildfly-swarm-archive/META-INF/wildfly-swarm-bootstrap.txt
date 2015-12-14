@@ -1,0 +1,12 @@
+gav: org.jboss.shrinkwrap:shrinkwrap-api:1.1.2
+gav: org.wildfly.swarm:wildfly-swarm-logging:1.0.0.Alpha3
+gav: org.wildfly.swarm:wildfly-swarm-io:1.0.0.Alpha3
+gav: org.jboss.shrinkwrap:shrinkwrap-impl-base:1.1.2
+gav: org.wildfly.swarm:wildfly-swarm-naming:1.0.0.Alpha3
+gav: org.jboss.spec.javax.servlet:jboss-servlet-api_3.1_spec:1.0.0.Final
+gav: org.wildfly.swarm:wildfly-swarm-container:1.0.0.Alpha3
+gav: org.jboss.shrinkwrap:shrinkwrap-spi:1.1.2
+gav: org.wildfly.swarm:wildfly-swarm-ee:1.0.0.Alpha3
+gav: org.wildfly.swarm:wildfly-swarm-undertow:1.0.0.Alpha3
+gav: org.jboss.spec.javax.websocket:jboss-websocket-api_1.1_spec:1.1.1.Final
+path: _bootstrap/swarm-0.0.1-SNAPSHOT.jar
